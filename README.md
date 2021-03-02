@@ -413,6 +413,7 @@ You can add the quick view hotspot functionality using the following code:
 
 &lt;/div&gt;
 </pre>
+
      <div class="col-md-6">
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-quick-view/hotspot-backend.png"></p>
 </div>
