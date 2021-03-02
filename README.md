@@ -403,7 +403,6 @@ Your text here&lt;/div&gt; &lt;/a&gt;
 <strong>5.</strong> Click <strong>Insert Widget</strong> button to insert the hotspot widget in your CMS page
                                 </p>
                         </ul>
-     <div class="col-md-6">
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-quick-view/hotspot-backend-options.png"></p>
 <strong>Please make sure to add the widget into a div with the class name "wp-hotspot-quickview" that contains the image tag and the hotspot quickview widget..</strong>
 
